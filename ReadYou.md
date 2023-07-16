@@ -27,3 +27,4 @@
 ## 6. Add file to remote github
     git remote set-url origin git@github.com:HainanCui/GitTest2.git
     git push origin master
+    git push origin main
